@@ -1,0 +1,4 @@
+D:/Users/YORIC/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/client.dir
+D:/Users/YORIC/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/server.dir
+D:/Users/YORIC/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Users/YORIC/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
